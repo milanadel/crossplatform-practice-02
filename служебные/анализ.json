@@ -1,0 +1,22 @@
+{
+  "commit": "a05867daaad66d9b89609b5eeb766acb0ac4e76c",
+  "lines": {
+    "lib\\main.dart": 113,
+    "lib\\src\\accelerometer_event_channel.dart": 37,
+    "lib\\src\\add_pet_details.dart": 81,
+    "lib\\src\\counter_method_channel.dart": 33,
+    "lib\\src\\event_channel_demo.dart": 56,
+    "lib\\src\\image_basic_message_channel.dart": 28,
+    "lib\\src\\method_channel_demo.dart": 90,
+    "lib\\src\\pet_list_message_channel.dart": 86,
+    "lib\\src\\pet_list_screen.dart": 103,
+    "lib\\src\\platform_image_demo.dart": 74,
+    "android\\app\\src\\main\\kotlin\\dev\\flutter\\platform_channels\\AccelerometerStreamHandler.kt": 39,
+    "android\\app\\src\\main\\kotlin\\dev\\flutter\\platform_channels\\MainActivity.kt": 88,
+    "ios\\Runner\\AccelerometerStreamHandler.swift": 38,
+    "ios\\Runner\\AppDelegate.swift": 112
+  },
+  "common": 701,
+  "total": 978,
+  "percentage": 71.7
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "tool": "React Native",
+    "version": "v0.87.1",
+    "date": "2026-08-26",
+    "url": "https://github.com/react/react-native/releases/tag/v0.87.1"
+  },
+  {
+    "tool": "Expo",
+    "version": "expo@58.0.3",
+    "date": "2026-10-03",
+    "url": "https://github.com/expo/expo/releases/tag/expo%4058.0.3"
+  },
+  {
+    "tool": "Kotlin",
+    "version": "v2.4.20",
+    "date": "2026-09-07",
+    "url": "https://github.com/JetBrains/kotlin/releases/tag/v2.4.20"
+  },
+  {
+    "tool": "Compose Multiplatform",
+    "version": "v1.12.1",
+    "date": "2026-09-22",
+    "url": "https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.12.1"
+  },
+  {
+    "tool": ".NET MAUI",
+    "version": "10.0.110",
+    "date": "2026-09-22",
+    "url": "https://github.com/dotnet/maui/releases/tag/10.0.110"
+  },
+  {
+    "tool": "Electron",
+    "version": "v44.5.1",
+    "date": "2026-09-30",
+    "url": "https://github.com/electron/electron/releases/tag/v44.5.1"
+  },
+  {
+    "tool": "Tauri",
+    "version": "tauri-v2.12.1",
+    "date": "2026-09-30",
+    "url": "https://github.com/tauri-apps/tauri/releases/tag/tauri-v2.12.1"
+  },
+  {
+    "tool": "Ionic",
+    "version": "v9.0.6",
+    "date": "2026-09-30",
+    "url": "https://github.com/ionic-team/ionic-framework/releases/tag/v9.0.6"
+  },
+  {
+    "tool": "Capacitor",
+    "version": "8.5.2",
+    "date": "2026-09-11",
+    "url": "https://github.com/ionic-team/capacitor/releases/tag/8.5.2"
+  },
+  {
+    "tool": "Docker Engine",
+    "version": "docker-v29.8.2",
+    "date": "2026-09-30",
+    "url": "https://github.com/moby/moby/releases/tag/docker-v29.8.2"
+  },
+  {
+    "tool": "CMake",
+    "version": "v4.4.4",
+    "date": "2026-10-02",
+    "url": "https://github.com/Kitware/CMake/releases/tag/v4.4.4"
+  },
+  {
+    "tool": "Node.js",
+    "version": "v24.21.0",
+    "date": "2026-09-07",
+    "url": "https://nodejs.org/en/blog/release/v24.21.0"
+  },
+  {
+    "tool": "Flutter",
+    "version": "3.47.6",
+    "date": "2026-10-01",
+    "url": "https://docs.flutter.dev/install/archive"
+  },
+  {
+    "tool": "Qt",
+    "version": "6.12.0",
+    "date": "2026-09-30",
+    "url": "https://www.qt.io/blog/qt-6.12-released"
+  },
+  {
+    "tool": "Python",
+    "version": "3.14.8",
+    "date": "2026-09-30",
+    "url": "https://www.python.org/downloads/release/python-3148/"
+  },
+  {
+    "tool": "WebAssembly",
+    "version": "3.0",
+    "date": "2025-09-17",
+    "url": "https://webassembly.org/news/2025-09-17-wasm-3.0/"
+  }
+]
